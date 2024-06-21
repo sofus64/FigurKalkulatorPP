@@ -1,0 +1,3 @@
+﻿Area and circumference
+Du skal lage en kalkulator som skal beregne areal og omkrets til en trekant, rektangel,og et kvadrat ved hjelp av arv. 
+Start med å finne en baseklasse med de egenskapene som er felles, hver klasse må så ha sin egen implementasjon for beregningene.
